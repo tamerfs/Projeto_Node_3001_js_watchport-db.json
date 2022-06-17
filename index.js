@@ -1,0 +1,1 @@
+// npm start ja  roda o server node com o json 
